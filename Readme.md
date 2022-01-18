@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Григорий Зайцев](https://up.htmlacademy.ru/htmlcss/33/user/2005533).
-* Наставник:`Магомед Кандаев`(https://htmlacademy.ru/profile/magomedkandaev).
+* Наставник:[Магомед Кандаев](https://htmlacademy.ru/profile/magomedkandaev).
 
 ---
 
